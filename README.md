@@ -14,7 +14,7 @@ Complete step-by-step guide to set up a 3-node Kubernetes cluster with two Datad
 
 ## Step 1: Start Minikube with 3 Nodes
 
-```bash
+
 # Start Docker Desktop
 open -a Docker
 
